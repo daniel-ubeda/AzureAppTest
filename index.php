@@ -6,6 +6,7 @@
     <title>Servicio Web</title>
 </head>
 <body>
-    <h>Servicio Web</h>
+    <h1>Servicio Web</h1>
+    <h2>Descripción:<h2>
 </body>
 </html>
